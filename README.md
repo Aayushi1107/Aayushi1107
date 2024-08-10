@@ -2,11 +2,12 @@
 <h3 align="center">Building the Future with Code | Final Year CS Student</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
 
+
 - 📫 How to reach me **aayushi110703@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aayushi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushi gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/aayushi-gupta-39435a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aayushi-gupta-39435a213" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aayushi110703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayushi110703" height="30" width="40" /></a>
 </p>
 
